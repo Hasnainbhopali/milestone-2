@@ -1,1 +1,1 @@
-# milestone-2 by HASNAIN
+# HACKATHON Milestone-2 by HASNAIN
